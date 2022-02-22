@@ -9,12 +9,13 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:30px;" src="http://45.media.tumblr.com/612f0d54ef8f4d423cfa911d7cfbe7a5/tumblr_mgnh59AX6y1rlapeio1_500.gif">
 </div> 
  
-##
-
+ ## 
+ 
 <div>
-  
+<img align="center" alt="Gif" height="275" width="100%" display="block" margin="6px 6px 6px 6px" padding="15px" style="border-radius:30px;" src="http://45.media.tumblr.com/612f0d54ef8f4d423cfa911d7cfbe7a5/tumblr_mgnh59AX6y1rlapeio1_500.gif">
 </div>
+
+
   
